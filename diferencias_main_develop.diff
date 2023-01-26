@@ -1,0 +1,7 @@
+diff --git a/test.txt b/test.txt
+index e69de29..0c9061e 100644
+--- a/test.txt
++++ b/test.txt
+@@ -0,0 +1 @@
++Apartado 16, Cambiar a la rama dev1 y modificar nuevamente la misma línea del fichero.
+\ No newline at end of file
